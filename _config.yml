@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: Fateme Moqadam
+description: My LabExam Github Site
+url: https://FatemeMoqadam.github.io
+avatar: "/assets/images/avatar.jpg"
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: "/assets/images/32.jpg"
 
 # Gems
 plugins:
