@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Welcome to Not Pure Poole
+title: Good & Bad Memories
 date: 2020-09-29 23:18 +0800
-last_modified_at: 2020-10-01 01:08:25 +0800
-tags: [jekyll theme, jekyll, tutorial]
+last_modified_at: 2022-01-06 16:27:0 +0800
+tags: [Memories]
 toc:  true
 ---
 Welcome to **Not Pure Poole**! This is an example post to show the layout.

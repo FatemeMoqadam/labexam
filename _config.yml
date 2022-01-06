@@ -29,13 +29,13 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: _itsftm_
   card: summary
 logo: logo.png
 social:
   name: Fateme Moqadam
   links:
-    - https://tw.com/vszhub
+    - https://twitter.com/_itsftm_
     - https://github.com/FatemeMoqadam
 google_site_verification: xxxxx
 lang: en
