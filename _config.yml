@@ -2,10 +2,10 @@
 title: Fateme Moqadam
 description: My LabExam Github Site
 url: https://FatemeMoqadam.github.io
-avatar: "/assets/images/1.jpg"
+avatar: "/assets/images/prof.jpg"
 paginate: 5
 permalink: pretty
-cover_image: "/assets/images/3.jpg"
+cover_image: "/assets/images/back.jpg"
 
 # Gems
 plugins:
